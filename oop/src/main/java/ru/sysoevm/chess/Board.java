@@ -1,5 +1,8 @@
 package ru.sysoevm.chess;
 
+/**
+ * Класс Board - реализует передвижение фигуры
+ */
 public class Board {
     public Figure[][] cell = new Figure[8][8]; // Клетки доски.
     Figure figure; // Фигура доски.
@@ -45,21 +48,5 @@ public class Board {
             throw new ImposibleMoveException("Недопустимый ход [" + x + "][" + y + "]");
         }
         return result;
-    }
-
-    public static void main(String[] args) {
-        Horse horse = new Horse( new Cell(1, 0) ); // Создан экземпляр объекта класса Horse;
-        Board figureHorse = new Board( horse ); // Создан экземпляр объекта класса Board. Присвоен объект figure;
-        figureHorse.cell[horse.position.getX()][horse.position.getY()] = horse; // Начальное положение фигуры Конь записывается в массив клеток cell;
-
-        /* Ходы фигурой конь. */
-        figureHorse.move(new Cell(1, 0), new Cell(2, 2));
-        System.out.println("---1---");
-        figureHorse.move(new Cell(2, 2), new Cell(4, 3));
-        System.out.println("---2---");
-        figureHorse.move(new Cell(4, 3), new Cell(2, 2));
-        System.out.println("---3---");
-        figureHorse.move(new Cell(2, 2), new Cell(1, 0));
-
     }
 }

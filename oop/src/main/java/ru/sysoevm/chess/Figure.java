@@ -1,5 +1,8 @@
 package ru.sysoevm.chess;
 
+/**
+ * Класс Figure - описывает функции шахматной фигуры
+ */
 public abstract class Figure {
 
     public final Cell position;
