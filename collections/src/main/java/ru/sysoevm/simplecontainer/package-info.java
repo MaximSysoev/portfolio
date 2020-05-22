@@ -1,4 +1,4 @@
-package ru.sysoevm.simplebinarycontainer;
+package ru.sysoevm.simplecontainer;
 
 /**
  * Package for work surrender.
@@ -7,6 +7,7 @@ package ru.sysoevm.simplebinarycontainer;
  * @version $Id$
  * @since 0.1
  */
+
 
 /*
     Необходимо создать динамический контейнер с методами:

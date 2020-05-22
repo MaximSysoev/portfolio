@@ -64,8 +64,9 @@ public class SimpleContainer<E> implements Container<E>, Iterable<E>  {
             if (!hasNext()) {
                 throw new NoSuchElementException();
             }
+            indexNext+=1;
             checkForConcurrentModification();
-            return (E)container[indexNext+=1];
+            return (E)container[indexNext];
         }
     }
 
