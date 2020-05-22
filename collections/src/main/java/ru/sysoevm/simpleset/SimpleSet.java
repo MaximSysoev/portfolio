@@ -1,5 +1,4 @@
 package ru.sysoevm.simpleset;
-
 import ru.sysoevm.simplearray.SimpleArray;
 
 public class SimpleSet<E> {
