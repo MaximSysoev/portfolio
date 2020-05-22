@@ -15,6 +15,7 @@ public class SimpleContainer<E> implements Container<E>, Iterable<E>  {
         return Arrays.copyOf(source, capacity);
     }
 
+
     public void remove(int index) throws NoSuchElementException {
         if (container[index]!=null) {
             container[index] = null;
