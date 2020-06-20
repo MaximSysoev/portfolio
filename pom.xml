@@ -21,6 +21,7 @@
         <module>oop</module>
         <module>collections</module>
         <module>io</module>
+        <module>sql</module>
     </modules>
 
     <dependencies>
