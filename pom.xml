@@ -22,6 +22,7 @@
         <module>collections</module>
         <module>io</module>
         <module>sql</module>
+        <module>multithreading</module>
     </modules>
 
     <dependencies>
