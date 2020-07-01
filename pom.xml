@@ -23,6 +23,7 @@
         <module>io</module>
         <module>sql</module>
         <module>multithreading</module>
+        <module>hibernate</module>
     </modules>
 
     <dependencies>
