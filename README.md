@@ -28,5 +28,5 @@
      * Кеш для хранения моделей (**cachestoringmodels**)
      * Реализация пула потоков (**threadpool**)
      * ExecuteService рассылка почты (**emailnotification**)
-6. ### Hibernate
-      * Создание объявлений по продаже автомобилей.
+6. ### Hibernate (модуль hibernate)
+      * Реализация площадки для продажи авто.
