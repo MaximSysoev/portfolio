@@ -29,4 +29,4 @@
      * Реализация пула потоков (**threadpool**)
      * ExecuteService рассылка почты (**emailnotification**)
 6. ### Hibernate (модуль hibernate)
-      * Реализация площадки для продажи авто.
+      * Реализация площадки для продажи авто (**carStorage**)
