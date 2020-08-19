@@ -69,8 +69,9 @@ public class SimpleBlockingQueue<T> {
             }
         };
 
-        cunsomer.start();
+
         producer.start();
+        cunsomer.start();
 
 
     }

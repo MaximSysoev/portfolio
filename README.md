@@ -30,3 +30,6 @@
      * ExecuteService рассылка почты (**emailnotification**)
 6. ### Hibernate (модуль hibernate)
       * Реализация площадки для продажи авто (**carStorage**)
+7. ### Spring (модуль spring) временно в разработке...
+8. ### Различные задания (varioustasks)
+     * Анаграмма (***anagram***)
