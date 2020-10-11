@@ -1,7 +1,7 @@
-## Портфолио
+## Портфолио 
 1. ### Spring
     * [Авторизация в Rest приложении через JWT token](https://github.com/MaximSysoev/jwt "Авторизация в Rest приложении через JWT token")
-    * [Rest приложение - формирование .xml файла данными из базы] (https://github.com/MaximSysoev/magnit "Формирование .xml файла данными из базы")
+    * [Rest приложение - формирование .xml файла данными из базы](https://github.com/MaximSysoev/magnit "Формирование .xml файла данными из базы")
     * Авторизация Spring security (ссылка в ближайшее время)
     * Проект автонарушители Spring Boot. (ссылка в ближайшее время)
 2. ### Ооп (модуль oop)
