@@ -1,10 +1,11 @@
 ## Портфолио 
 1. ### Spring
     * [Авторизация в Rest приложении через JWT token](https://github.com/MaximSysoev/jwt "Авторизация в Rest приложении через JWT token")
-    * [Rest приложение - формирование .xml файла данными из базы](https://github.com/MaximSysoev/magnit "Формирование .xml файла данными из базы")
-    * [Rest service CRUD операции](https://github.com/MaximSysoev/auth "Crud операции")
-    * [REST телефонный справочник](https://github.com/MaximSysoev/phonebook)
     * [Проект автонарушители](https://github.com/MaximSysoev/car_accident "Crud операции. Авторизация с разными ролями.")
+    * [REST приложение - формирование .xml файла данными из базы](https://github.com/MaximSysoev/magnit "Формирование .xml файла данными из базы")
+    * [REST service CRUD операции](https://github.com/MaximSysoev/auth "Crud операции")
+    * [REST телефонный справочник](https://github.com/MaximSysoev/phonebook)
+
 2. ### Ооп (модуль oop)
     * Возврат монет в лендинговых аппаратах (**automat**)
     * Реализация ходов фигуры Конь (**chess**)
